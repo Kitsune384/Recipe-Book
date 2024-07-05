@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en">
   <head>
-    <title>Sean's Recipe  book</title>
+    <title>Sean's Recipe  book</title>title>
     <link rel = "icon" href = "Medal.pngJSJS" type = "image/x-icon">
     <meta charset = "UTF-8">
     <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
